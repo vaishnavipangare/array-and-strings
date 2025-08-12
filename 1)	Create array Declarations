@@ -4,7 +4,6 @@ prn: 25070123501
 ENTC A3
 problem statement
 
-
 #include <iostream>
 using namespace std;
 int main() {
